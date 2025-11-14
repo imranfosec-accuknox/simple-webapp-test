@@ -1,0 +1,63 @@
+# deployment.yaml
+# -------------------------------------------------------------------------
+# WARNING: THIS MANIFEST IS DELIBERATELY VULNERABLE FOR SECURITY TESTING.
+# DO NOT DEPLOY IN A PRODUCTION OR SENSITIVE ENVIRONMENT.
+# -------------------------------------------------------------------------
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: insecure-app-deployment
+  labels:
+    app: insecure-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: insecure-app
+  template:
+    metadata:
+      labels:
+        app: insecure-app
+    spec:
+      containers:
+      - name: vulnerable-nginx
+        # 🔴 VULNERABILITY 1: Use of ':latest' tag
+        # The ':latest' tag is ambiguous and mutable, preventing deterministic 
+        # deployments and making it difficult to audit security.
+        image: nginx:latest 
+        ports:
+        - containerPort: 80
+        
+        # 🔴 VULNERABILITY 2: Missing Resource Limits and Requests
+        # This allows the container to consume unlimited CPU/Memory, 
+        # leading to Denial of Service (DoS) risks against the host node.
+        # resources: {}
+        
+        securityContext:
+          # 🔴 VULNERABILITY 3: Privileged Container (The most critical vulnerability)
+          # Gives the container all capabilities and access to host devices, 
+          # essentially granting root access to the underlying node.
+          privileged: true
+
+          # 🔴 VULNERABILITY 4: Running as Root User (UID 0)
+          # Allowing the container process to run as root is a major risk,
+          # especially when combined with privileged mode.
+          runAsUser: 0 
+
+          # 🔴 VULNERABILITY 5: Insecure Seccomp Profile
+          # The seccomp profile is set to Unconfined, which disables a key 
+          # kernel security feature used to restrict system calls.
+          seccompProfile:
+            type: Unconfined 
+            
+          # 🔴 VULNERABILITY 6: Writable Root Filesystem
+          # An attacker can write to the container's main filesystem, 
+          # allowing persistence or local configuration modification.
+          readOnlyRootFilesystem: false
+          
+          # 🔴 VULNERABILITY 7: Dropping No Capabilities (Default is insufficient)
+          # The container retains highly dangerous capabilities like NET_ADMIN
+          # (ability to configure network interfaces) and SYS_ADMIN (broad 
+          # system control), increasing attack surface.
+          capabilities:
+            drop: [] # Explicitly dropping no capabilities
