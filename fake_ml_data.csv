@@ -1,0 +1,201 @@
+User_ID,Full_Name,Email,Street_Address,Age,Monthly_Usage_Hours,Support_Tickets,Is_Premium,Churned
+CUST_1001,Eleanor Vance,eleanor.vance87@fakecorp.com,890 E University Ave,34,120.5,3,TRUE,FALSE
+CUST_1002,Silas Kael,silas.kael@webmail.net,1234 Main St Unit 12B,55,45.2,1,FALSE,TRUE
+CUST_1003,Priya Sharma,priya.sharma@example.org,500 Oak Ridge Dr Apt 3A,22,210.8,0,TRUE,FALSE
+CUST_1004,Marcus Chen,marcus.chen_99@securenet.com,777 Elmwood Pl,41,18.0,5,FALSE,TRUE
+CUST_1005,Olivia Morales,olivia.morales@corp-int.com,101 Pine Ln,60,95.1,2,TRUE,FALSE
+CUST_1006,Ethan Reed,ethan.reed@mailprovider.co,45 Valley View Rd,28,301.9,0,TRUE,FALSE
+CUST_1007,Aria Gupta,aria.gupta@personal-mail.net,200 Cedar Blvd,39,78.3,4,FALSE,FALSE
+CUST_1008,Liam O'Connell,liam.oconnell@workdomain.org,31 Willow Creek Way,51,155.6,1,TRUE,FALSE
+CUST_1009,Chloe Baker,chloe.baker@testdata.com,654 High St,24,6.7,7,FALSE,TRUE
+CUST_1010,Noah Phillips,noah.phillips@public-net.com,18 Northgate Cir,37,112.4,2,TRUE,FALSE
+CUST_1011,Isabelle Ross,isabelle.ross@email-co.net,91 Broadway Apt C4,48,89.5,0,TRUE,FALSE
+CUST_1012,Finn Thompson,finn.thompson@app-users.com,23 Riverwalk Terr,29,190.1,1,TRUE,FALSE
+CUST_1013,Zara Khan,zara.khan@data-test.org,555 Maple Ave,63,20.3,6,FALSE,TRUE
+CUST_1014,Devin Lee,devin.lee@temp-mail.com,800 University Dr,31,145.7,3,TRUE,FALSE
+CUST_1015,Grace Miller,grace.miller@internal.net,14 Oak St #10A,44,52.8,0,FALSE,FALSE
+CUST_1016,Owen Wright,owen.wright@testing.org,75 South St,26,240.0,0,TRUE,FALSE
+CUST_1017,Mia Clark,mia.clark@securedata.com,29 Elm Rd,58,10.9,8,FALSE,TRUE
+CUST_1018,Henry King,henry.king@fake-data.net,400 Garden View,33,168.2,1,TRUE,FALSE
+CUST_1019,Sofia Perez,sofia.perez@usermail.org,15 Lakefront Pkwy,47,73.0,2,TRUE,FALSE
+CUST_1020,Lucas Scott,lucas.scott@data-lab.com,60 Walnut St,50,39.4,5,FALSE,TRUE
+CUST_1021,Aisha Rodriguez,aisha.rodriguez@example.com,1200 N. Main St.,45,135.2,1,TRUE,FALSE
+CUST_1022,Benjamin Carter,benjamin.carter@testcorp.net,43 Hillside Dr.,67,22.1,4,FALSE,TRUE
+CUST_1023,Chen Li,chen.li@samplemail.org,88 Ocean View Ave,30,288.7,0,TRUE,FALSE
+CUST_1024,Diana Hayes,diana.hayes@datasecurity.com,15 Sunset Blvd #5B,53,60.5,2,TRUE,FALSE
+CUST_1025,Elias Vargas,elias.vargas@mailtest.net,700 River St,25,19.3,7,FALSE,TRUE
+CUST_1026,Fiona Chang,fiona.chang@internalapp.com,11 Pine St,40,110.4,1,TRUE,FALSE
+CUST_1027,Gavin Hunt,gavin.hunt@publicsite.org,902 University Place,62,48.9,3,FALSE,FALSE
+CUST_1028,Hannah Kim,hannah.kim@testco.net,21 Lakeshore Dr,36,175.5,0,TRUE,FALSE
+CUST_1029,Ivan Petrova,ivan.petrova@data-lab.com,51 Oakwood Ct,49,85.6,5,FALSE,TRUE
+CUST_1030,Jasmine Ward,jasmine.ward@securenet.org,33 High Valley Rd,27,215.0,1,TRUE,FALSE
+CUST_1031,Kyle Stevens,kyle.stevens@webtech.com,61 Maple Lane,56,40.1,2,FALSE,TRUE
+CUST_1032,Laura Gomez,laura.gomez@testmail.net,40 Poplar Ave,32,150.3,0,TRUE,FALSE
+CUST_1033,Mark Nelson,mark.nelson@corpmail.org,82 Elm St Apt 2D,43,92.8,4,FALSE,FALSE
+CUST_1034,Nina Patel,nina.patel@sampledata.com,19 River Road,69,15.7,8,FALSE,TRUE
+CUST_1035,Oscar Flores,oscar.flores@privatedata.net,55 Green St,23,290.9,0,TRUE,FALSE
+CUST_1036,Penelope Wu,penelope.wu@userbase.org,74 Birch St,59,75.2,1,TRUE,FALSE
+CUST_1037,Quentin Bell,quentin.bell@mailservice.com,1300 E Washington St,38,130.6,3,FALSE,FALSE
+CUST_1038,Rachel Soto,rachel.soto@testdomain.net,910 Walnut Ave,46,55.4,2,TRUE,FALSE
+CUST_1039,Samuel Velez,samuel.velez@appdata.org,14 Mill Creek Pkwy,21,10.2,9,FALSE,TRUE
+CUST_1040,Tina Brooks,tina.brooks@fakecorp.com,200 College Ave,54,165.7,0,TRUE,FALSE
+CUST_1041,Umar Hassan,umar.hassan@webmail.net,850 University Way,35,118.9,1,TRUE,FALSE
+CUST_1042,Victoria Diaz,victoria.diaz@example.org,310 Hilltop Dr,42,30.5,4,FALSE,TRUE
+CUST_1043,Walter Price,walter.price@securenet.com,170 Elmwood Ct,66,88.1,0,TRUE,FALSE
+CUST_1044,Xena Jones,xena.jones_88@corp-int.com,600 Pine Rd,29,195.4,2,TRUE,FALSE
+CUST_1045,Yusuf Ali,yusuf.ali@mailprovider.co,95 Valley Rd,52,50.7,3,FALSE,FALSE
+CUST_1046,Zoe Martin,zoe.martin@personal-mail.net,10 Cedar Ct,33,250.2,0,TRUE,FALSE
+CUST_1047,Adam Brown,adam.brown@workdomain.org,44 Willow Ave,48,70.6,5,FALSE,TRUE
+CUST_1048,Bella Green,bella.green@testdata.com,111 High Ln,61,15.9,7,FALSE,TRUE
+CUST_1049,Cole Perez,cole.perez@public-net.com,30 Northgate Dr,26,105.3,1,TRUE,FALSE
+CUST_1050,Daisy Young,daisy.young@email-co.net,70 Broadway Apt A2,47,80.0,0,TRUE,FALSE
+CUST_1051,Elijah White,elijah.white@app-users.com,99 Riverwalk Loop,39,180.2,0,TRUE,FALSE
+CUST_1052,Freya Clark,freya.clark@data-test.org,10 Maple Ct,55,35.8,6,FALSE,TRUE
+CUST_1053,George Hall,george.hall@temp-mail.com,200 University Pl,34,140.1,2,TRUE,FALSE
+CUST_1054,Holly Evans,holly.evans@internal.net,10 Oak St #20B,41,65.9,0,FALSE,FALSE
+CUST_1055,Isaac Lewis,isaac.lewis@testing.org,88 South St,68,12.5,9,FALSE,TRUE
+CUST_1056,Jade Turner,jade.turner@securedata.com,12 Elm Rd,22,260.6,0,TRUE,FALSE
+CUST_1057,Kevin Scott,kevin.scott@fake-data.net,500 Garden Terrace,50,99.3,1,TRUE,FALSE
+CUST_1058,Lila Baker,lila.baker@usermail.org,25 Lakefront Drive,36,115.8,3,TRUE,FALSE
+CUST_1059,Miles Rodriguez,miles.rodriguez@data-lab.com,40 Walnut Ave,45,40.0,5,FALSE,TRUE
+CUST_1060,Nora Allen,nora.allen@example.com,300 N. Main St.,63,20.8,4,FALSE,TRUE
+CUST_1061,Oliver Wood,oliver.wood@testcorp.net,55 Hillside Dr.,24,295.1,0,TRUE,FALSE
+CUST_1062,Piper King,piper.king@samplemail.org,18 Ocean View Ave,40,78.3,1,TRUE,FALSE
+CUST_1063,Quinn Perez,quinn.perez@datasecurity.com,10 Sunset Blvd #1A,57,50.6,3,FALSE,FALSE
+CUST_1064,Ryan Martinez,ryan.martinez@mailtest.net,800 River St,31,15.1,7,FALSE,TRUE
+CUST_1065,Sofia Lee,sofia.lee@internalapp.com,22 Pine St,46,125.9,0,TRUE,FALSE
+CUST_1066,Thomas Chen,thomas.chen@publicsite.org,912 University Place,20,310.4,1,TRUE,FALSE
+CUST_1067,Uma Sharma,uma.sharma@testco.net,32 Lakeshore Dr,53,65.2,4,FALSE,TRUE
+CUST_1068,Victor Wong,victor.wong@data-lab.com,61 Oakwood Ct,37,160.0,0,TRUE,FALSE
+CUST_1069,Willow Reed,willow.reed@securenet.org,44 High Valley Rd,59,30.3,5,FALSE,TRUE
+CUST_1070,Xavier Hall,xavier.hall@webtech.com,71 Maple Lane,28,199.7,1,TRUE,FALSE
+CUST_1071,Yara Morales,yara.morales@testmail.net,50 Poplar Ave,51,45.5,2,FALSE,TRUE
+CUST_1072,Zane Carter,zane.carter@corpmail.org,92 Elm St Apt 3C,35,115.6,0,TRUE,FALSE
+CUST_1073,Amy Bell,amy.bell@sampledata.com,29 River Road,44,80.7,3,FALSE,FALSE
+CUST_1074,Ben Jones,ben.jones@privatedata.net,65 Green St,67,10.1,8,FALSE,TRUE
+CUST_1075,Cara King,cara.king@userbase.org,84 Birch St,23,275.3,0,TRUE,FALSE
+CUST_1076,Drew Patel,drew.patel@mailservice.com,1400 E Washington St,58,88.4,1,TRUE,FALSE
+CUST_1077,Eva Thompson,eva.thompson@testdomain.net,920 Walnut Ave,32,148.9,3,FALSE,FALSE
+CUST_1078,Fred Velez,fred.velez@appdata.org,24 Mill Creek Pkwy,49,52.2,6,FALSE,TRUE
+CUST_1079,Gigi Brooks,gigi.brooks@fakecorp.com,300 College Ave,25,100.5,1,TRUE,FALSE
+CUST_1080,Harry Chen,harry.chen@webmail.net,950 University Way,56,42.3,2,FALSE,TRUE
+CUST_1081,Ivy Diaz,ivy.diaz@example.org,410 Hilltop Dr,38,133.7,0,TRUE,FALSE
+CUST_1082,Jake Price,jake.price@securenet.com,270 Elmwood Ct,60,70.4,4,FALSE,TRUE
+CUST_1083,Kayla Jones,kayla.jones_77@corp-int.com,700 Pine Rd,33,185.0,0,TRUE,FALSE
+CUST_1084,Leo Ali,leo.ali@mailprovider.co,105 Valley Rd,47,58.6,2,TRUE,FALSE
+CUST_1085,Mona Martin,mona.martin@personal-mail.net,20 Cedar Ct,29,230.1,0,TRUE,FALSE
+CUST_1086,Nick Brown,nick.brown@workdomain.org,54 Willow Ave,54,82.8,3,FALSE,FALSE
+CUST_1087,Opal Green,opal.green@testdata.com,211 High Ln,36,18.5,7,FALSE,TRUE
+CUST_1088,Paul Perez,paul.perez@public-net.com,40 Northgate Dr,43,95.9,1,TRUE,FALSE
+CUST_1089,Quinn Young,quinn.young@email-co.net,80 Broadway Apt B3,65,10.0,9,FALSE,TRUE
+CUST_1090,Rico White,rico.white@app-users.com,109 Riverwalk Loop,27,210.2,0,TRUE,FALSE
+CUST_1091,Sara Clark,sara.clark@data-test.org,20 Maple Ct,50,49.1,5,FALSE,TRUE
+CUST_1092,Tom Hall,tom.hall@temp-mail.com,300 University Pl,31,130.5,1,TRUE,FALSE
+CUST_1093,Ursula Evans,ursula.evans@internal.net,20 Oak St #30C,46,75.0,0,FALSE,FALSE
+CUST_1094,Vance Lewis,vance.lewis@testing.org,98 South St,64,25.9,6,FALSE,TRUE
+CUST_1095,Wendy Turner,wendy.turner@securedata.com,22 Elm Rd,24,285.4,0,TRUE,FALSE
+CUST_1096,Xander Scott,xander.scott@fake-data.net,600 Garden Terrace,53,88.7,1,TRUE,FALSE
+CUST_1097,Yasmine Baker,yasmine.baker@usermail.org,35 Lakefront Drive,30,170.1,2,TRUE,FALSE
+CUST_1098,Zack Rodriguez,zack.rodriguez@data-lab.com,50 Walnut Ave,41,55.3,4,FALSE,TRUE
+CUST_1099,Alice Allen,alice.allen@example.com,400 N. Main St.,68,15.2,5,FALSE,TRUE
+CUST_1100,Bruce Wood,bruce.wood@testcorp.net,66 Hillside Dr.,22,305.8,0,TRUE,FALSE
+CUST_1101,Cathy King,cathy.king@samplemail.org,28 Ocean View Ave,49,68.9,1,TRUE,FALSE
+CUST_1102,David Perez,david.perez@datasecurity.com,20 Sunset Blvd #2C,55,42.4,3,FALSE,FALSE
+CUST_1103,Emily Martinez,emily.martinez@mailtest.net,900 River St,35,28.6,6,FALSE,TRUE
+CUST_1104,Frank Lee,frank.lee@internalapp.com,33 Pine St,42,145.0,0,TRUE,FALSE
+CUST_1105,Gloria Chen,gloria.chen@publicsite.org,922 University Place,26,245.3,1,TRUE,FALSE
+CUST_1106,Hector Sharma,hector.sharma@testco.net,42 Lakeshore Dr,59,20.1,7,FALSE,TRUE
+CUST_1107,Irene Wong,irene.wong@data-lab.com,71 Oakwood Ct,32,152.9,0,TRUE,FALSE
+CUST_1108,Jeff Reed,jeff.reed@securenet.org,55 High Valley Rd,54,48.5,2,FALSE,TRUE
+CUST_1109,Kelly Hall,kelly.hall@webtech.com,81 Maple Lane,29,180.3,0,TRUE,FALSE
+CUST_1110,Leo Morales,leo.morales@testmail.net,60 Poplar Ave,47,60.8,3,FALSE,FALSE
+CUST_1111,Mia Carter,mia.carter@corpmail.org,102 Elm St Apt 4B,61,10.5,9,FALSE,TRUE
+CUST_1112,Nate Bell,nate.bell@sampledata.com,39 River Road,25,265.1,0,TRUE,FALSE
+CUST_1113,Olive Jones,olive.jones@privatedata.net,75 Green St,50,90.2,1,TRUE,FALSE
+CUST_1114,Peter King,peter.king@userbase.org,94 Birch St,34,120.4,3,TRUE,FALSE
+CUST_1115,Quinn Patel,quinn.patel@mailservice.com,1500 E Washington St,41,50.1,2,FALSE,FALSE
+CUST_1116,Rita Thompson,rita.thompson@testdomain.net,930 Walnut Ave,66,16.8,8,FALSE,TRUE
+CUST_1117,Steve Velez,steve.velez@appdata.org,34 Mill Creek Pkwy,21,300.7,0,TRUE,FALSE
+CUST_1118,Tess Brooks,tess.brooks@fakecorp.com,400 College Ave,53,45.6,1,FALSE,TRUE
+CUST_1119,Ulysses Chen,ulysses.chen@webmail.net,1050 University Way,30,170.9,0,TRUE,FALSE
+CUST_1120,Vera Diaz,vera.diaz@example.org,510 Hilltop Dr,45,62.1,5,FALSE,TRUE
+CUST_1121,Will Price,will.price@securenet.com,370 Elmwood Ct,68,9.4,10,FALSE,TRUE
+CUST_1122,Yasmine Jones,yasmine.jones_66@corp-int.com,800 Pine Rd,24,310.0,0,TRUE,FALSE
+CUST_1123,Zack Ali,zack.ali@mailprovider.co,115 Valley Rd,57,40.3,1,TRUE,FALSE
+CUST_1124,Alice Martin,alice.martin@personal-mail.net,30 Cedar Ct,39,155.8,0,TRUE,FALSE
+CUST_1125,Bob Brown,bob.brown@workdomain.org,64 Willow Ave,51,70.1,4,FALSE,TRUE
+CUST_1126,Chloe Green,chloe.green@testdata.com,311 High Ln,33,125.7,0,TRUE,FALSE
+CUST_1127,Dan Perez,dan.perez@public-net.com,50 Northgate Dr,49,50.9,5,FALSE,TRUE
+CUST_1128,Ella Young,ella.young@email-co.net,90 Broadway Apt C5,64,18.0,6,FALSE,TRUE
+CUST_1129,Felix White,felix.white@app-users.com,119 Riverwalk Loop,26,200.5,0,TRUE,FALSE
+CUST_1130,Gwen Clark,gwen.clark@data-test.org,30 Maple Ct,53,30.2,7,FALSE,TRUE
+CUST_1131,Hugh Hall,hugh.hall@temp-mail.com,400 University Pl,37,140.7,1,TRUE,FALSE
+CUST_1132,Iris Evans,iris.evans@internal.net,30 Oak St #40D,42,80.1,0,FALSE,FALSE
+CUST_1133,Jack Lewis,jack.lewis@testing.org,108 South St,60,20.6,8,FALSE,TRUE
+CUST_1134,Kate Turner,kate.turner@securedata.com,32 Elm Rd,28,255.9,0,TRUE,FALSE
+CUST_1135,Leo Scott,leo.scott@fake-data.net,700 Garden Terrace,55,75.3,2,TRUE,FALSE
+CUST_1136,May Baker,may.baker@usermail.org,45 Lakefront Drive,35,105.4,3,TRUE,FALSE
+CUST_1137,Neil Rodriguez,neil.rodriguez@data-lab.com,60 Walnut Ave,47,45.8,5,FALSE,TRUE
+CUST_1138,Oona Allen,oona.allen@example.com,500 N. Main St.,62,25.4,4,FALSE,TRUE
+CUST_1139,Paul Wood,paul.wood@testcorp.net,77 Hillside Dr.,29,280.0,0,TRUE,FALSE
+CUST_1140,Queenie King,queenie.king@samplemail.org,38 Ocean View Ave,43,85.1,1,TRUE,FALSE
+CUST_1141,Roger Perez,roger.perez@datasecurity.com,30 Sunset Blvd #3A,58,35.7,3,FALSE,FALSE
+CUST_1142,Sue Martinez,sue.martinez@mailtest.net,1000 River St,32,12.3,7,FALSE,TRUE
+CUST_1143,Tim Lee,tim.lee@internalapp.com,44 Pine St,48,130.6,0,TRUE,FALSE
+CUST_1144,Una Chen,una.chen@publicsite.org,932 University Place,24,220.0,1,TRUE,FALSE
+CUST_1145,Vince Sharma,vince.sharma@testco.net,52 Lakeshore Dr,65,10.8,9,FALSE,TRUE
+CUST_1146,Wanda Wong,wanda.wong@data-lab.com,81 Oakwood Ct,38,140.4,0,TRUE,FALSE
+CUST_1147,Xavier Reed,xavier.reed@securenet.org,66 High Valley Rd,50,58.9,2,FALSE,TRUE
+CUST_1148,Yara Hall,yara.hall@webtech.com,91 Maple Lane,33,175.7,0,TRUE,FALSE
+CUST_1149,Zack Morales,zack.morales@testmail.net,70 Poplar Ave,45,65.2,4,FALSE,FALSE
+CUST_1150,Ann Carter,ann.carter@corpmail.org,112 Elm St Apt 5D,69,5.5,10,FALSE,TRUE
+CUST_1151,Ben Bell,ben.bell@sampledata.com,49 River Road,22,290.1,0,TRUE,FALSE
+CUST_1152,Carly Jones,carly.jones@privatedata.net,85 Green St,56,80.0,1,TRUE,FALSE
+CUST_1153,Don King,don.king@userbase.org,104 Birch St,37,110.3,3,TRUE,FALSE
+CUST_1154,Ed Patel,ed.patel@mailservice.com,1600 E Washington St,44,52.4,2,FALSE,FALSE
+CUST_1155,Faye Thompson,faye.thompson@testdomain.net,940 Walnut Ave,63,14.9,8,FALSE,TRUE
+CUST_1156,Gino Velez,gino.velez@appdata.org,44 Mill Creek Pkwy,26,270.6,0,TRUE,FALSE
+CUST_1157,Hope Brooks,hope.brooks@fakecorp.com,500 College Ave,52,95.5,1,TRUE,FALSE
+CUST_1158,Ian Chen,ian.chen@webmail.net,1150 University Way,31,160.8,0,TRUE,FALSE
+CUST_1159,Jada Diaz,jada.diaz@example.org,610 Hilltop Dr,46,50.7,5,FALSE,TRUE
+CUST_1160,Ken Price,ken.price@securenet.com,470 Elmwood Ct,70,5.1,10,FALSE,TRUE
+CUST_1161,Lena Jones,lena.jones_55@corp-int.com,900 Pine Rd,20,330.4,0,TRUE,FALSE
+CUST_1162,Max Ali,max.ali@mailprovider.co,125 Valley Rd,54,45.9,1,TRUE,FALSE
+CUST_1163,Nia Martin,nia.martin@personal-mail.net,40 Cedar Ct,35,170.2,0,TRUE,FALSE
+CUST_1164,Omar Brown,omar.brown@workdomain.org,74 Willow Ave,48,75.1,4,FALSE,TRUE
+CUST_1165,Pia Green,pia.green@testdata.com,411 High Ln,66,12.9,9,FALSE,TRUE
+CUST_1166,Quincy Perez,quincy.perez@public-net.com,60 Northgate Dr,27,215.5,0,TRUE,FALSE
+CUST_1167,Rosa Young,rosa.young@email-co.net,100 Broadway Apt A5,59,38.6,5,FALSE,TRUE
+CUST_1168,Sam White,sam.white@app-users.com,129 Riverwalk Loop,38,150.1,1,TRUE,FALSE
+CUST_1169,Tara Clark,tara.clark@data-test.org,40 Maple Ct,45,60.5,3,FALSE,FALSE
+CUST_1170,Uriel Hall,uriel.hall@temp-mail.com,500 University Pl,60,20.0,7,FALSE,TRUE
+CUST_1171,Vivian Evans,vivian.evans@internal.net,40 Oak St #50E,22,305.9,0,TRUE,FALSE
+CUST_1172,Wayne Lewis,wayne.lewis@testing.org,118 South St,57,88.2,1,TRUE,FALSE
+CUST_1173,Xenia Turner,xenia.turner@securedata.com,42 Elm Rd,34,120.7,2,TRUE,FALSE
+CUST_1174,Yancy Scott,yancy.scott@fake-data.net,800 Garden Terrace,50,42.5,4,FALSE,TRUE
+CUST_1175,Zara Baker,zara.baker@usermail.org,55 Lakefront Drive,40,155.6,0,TRUE,FALSE
+CUST_1176,Adam Rodriguez,adam.rodriguez@data-lab.com,70 Walnut Ave,65,10.4,9,FALSE,TRUE
+CUST_1177,Beth Allen,beth.allen@example.com,600 N. Main St.,25,285.3,0,TRUE,FALSE
+CUST_1178,Caleb Wood,caleb.wood@testcorp.net,88 Hillside Dr.,55,70.9,1,TRUE,FALSE
+CUST_1179,Dana King,dana.king@samplemail.org,48 Ocean View Ave,36,100.1,3,TRUE,FALSE
+CUST_1180,Eric Perez,eric.perez@datasecurity.com,40 Sunset Blvd #4C,53,40.5,2,FALSE,FALSE
+CUST_1181,Fay Martinez,fay.martinez@mailtest.net,1100 River St,30,18.7,6,FALSE,TRUE
+CUST_1182,Gail Lee,gail.lee@internalapp.com,55 Pine St,46,135.2,0,TRUE,FALSE
+CUST_1183,Hank Chen,hank.chen@publicsite.org,942 University Place,60,25.8,5,FALSE,TRUE
+CUST_1184,Ivy Sharma,ivy.sharma@testco.net,62 Lakeshore Dr,28,205.1,0,TRUE,FALSE
+CUST_1185,Joel Wong,joel.wong@data-lab.com,91 Oakwood Ct,51,78.5,1,TRUE,FALSE
+CUST_1186,Kim Reed,kim.reed@securenet.org,77 High Valley Rd,33,128.0,3,TRUE,FALSE
+CUST_1187,Luke Hall,luke.hall@webtech.com,101 Maple Lane,49,55.7,2,FALSE,FALSE
+CUST_1188,Macy Morales,macy.morales@testmail.net,80 Poplar Ave,64,15.1,8,FALSE,TRUE
+CUST_1189,Noah Carter,noah.carter@corpmail.org,122 Elm St Apt 6B,23,260.4,0,TRUE,FALSE
+CUST_1190,Opal Bell,opal.bell@sampledata.com,59 River Road,58,85.6,1,TRUE,FALSE
+CUST_1191,Pat Jones,pat.jones@privatedata.net,95 Green St,38,105.9,3,TRUE,FALSE
+CUST_1192,Quinn King,quinn.king@userbase.org,114 Birch St,44,58.0,2,FALSE,FALSE
+CUST_1193,Rob Patel,rob.patel@mailservice.com,1700 E Washington St,67,10.0,9,FALSE,TRUE
+CUST_1194,Sue Thompson,sue.thompson@testdomain.net,950 Walnut Ave,21,300.2,0,TRUE,FALSE
+CUST_1195,Todd Velez,todd.velez@appdata.org,54 Mill Creek Pkwy,55,40.1,4,FALSE,TRUE
+CUST_1196,Uma Brooks,uma.brooks@fakecorp.com,600 College Ave,32,150.3,1,TRUE,FALSE
+CUST_1197,Vince Chen,vince.chen@webmail.net,1250 University Way,47,68.9,0,TRUE,FALSE
+CUST_1198,Wendy Diaz,wendy.diaz@example.org,710 Hilltop Dr,60,19.3,7,FALSE,TRUE
+CUST_1199,Xander Price,xander.price@securenet.com,570 Elmwood Ct,26,245.8,0,TRUE,FALSE
+CUST_1200,Yara Jones,yara.jones_44@corp-int.com,1000 Pine Rd,53,88.1,1,TRUE,FALSE
